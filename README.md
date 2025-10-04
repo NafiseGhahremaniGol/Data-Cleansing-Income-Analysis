@@ -71,4 +71,11 @@ The objective was to transform raw salary data into a reliable dataset to calcul
 
 
 
-If you have any questions or suggestions, feel free to open an issue or connect with me on LinkedIn.
+**If you have any questions or suggestions, feel free to open an issue or connect with me on LinkedIn.**
+
+<img width="1918" height="1017" alt="image (1)" src="https://github.com/user-attachments/assets/d22849b0-c7aa-456f-a165-33835cc20db4" />
+<img width="1918" height="1017" alt="image (2)" src="https://github.com/user-attachments/assets/7661546b-ae5f-4858-9003-7e5020d13bd6" />
+<img width="1918" height="1017" alt="image (3)" src="https://github.com/user-attachments/assets/8e7b560a-5b41-4d05-83c8-7e0beedb216a" />
+<img width="1918" height="1017" alt="image (4)" src="https://github.com/user-attachments/assets/98ac637d-59c9-4b72-b046-ccbe5d20b567" />
+<img width="980" height="847" alt="image" src="https://github.com/user-attachments/assets/baa1b184-d14e-4afc-837d-781a9403fb35" />
+
