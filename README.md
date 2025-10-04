@@ -15,7 +15,7 @@ The objective was to transform raw salary data into a reliable dataset to calcul
 ## Requirements
 
 * Microsoft Excel (with Power Query support)
-* Access to the raw dataset (`Uncleaned Data & State File`)
+* Access to the raw dataset (`income_raw & state_mapping File`)
 ---
 
 ## Step-by-Step Data Cleansing (Power Query UI)
@@ -57,7 +57,7 @@ The objective was to transform raw salary data into a reliable dataset to calcul
 
      * `AvgMinSalary` = Average of Min Salary
      * `AvgMaxSalary` = Average of Max Salary
-3. Close & Load → Save results into `data/cleaned/Cleaned Data.xlsx` or export as `reports/analysis_by_role_size_state.csv`.
+3. Close & Load → Save results into `Cleaned Data.xlsx` or export as `analysis_by_role_size_state.csv`.
 
 ---
 
